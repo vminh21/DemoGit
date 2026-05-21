@@ -1,0 +1,17 @@
+.vscode/
+
+*.class
+*.log
+*.jar
+*.war
+target/
+.mtj.tmp/
+
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+Thumbs.db
+.DS_Store
